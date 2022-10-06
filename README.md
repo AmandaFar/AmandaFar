@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on systems development
+- 🔭 I am currently working on systems development and process analysis and modeling.
 - 🌱 I’m currently learning ...JavaScript and Python
 - 👯 I’m looking to collaborate on ...Data Science
 - 🤔 I’m looking for help with ...JavaScript programming
